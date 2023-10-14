@@ -19,3 +19,5 @@ Muito obrigado e aproveite!
 8- Crack
 
 9-_Find variables
+
+10- Command tricks
