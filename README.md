@@ -4,7 +4,7 @@ Muito obrigado e aproveite!
 
 1- Intro
 
-2- POrt scan
+2- Port scan
 
 3- Enumeration
 
